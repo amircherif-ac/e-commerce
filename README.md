@@ -1,4 +1,5 @@
 # E-Commerce
+![Screenshot](https://github.com/user-attachments/assets/3384bfae-a186-450f-af19-975b73f949a2)
 
 ## Description
 This is an e-commerce application built with Node.js. It provides a platform for users to browse and purchase products online.
