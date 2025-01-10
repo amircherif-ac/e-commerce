@@ -1,4 +1,4 @@
-# e-commerce
+# E-Commerce
 
 ## Description
 This is an e-commerce application built with Node.js. It provides a platform for users to browse and purchase products online.
