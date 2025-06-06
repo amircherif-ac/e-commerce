@@ -10,6 +10,12 @@ This is an e-commerce application built with Node.js. It allows users to browse 
 - Order management
 - Payment processing
 
+## Tech Stack
+- Node.js/ Express
+- EJS
+- MongoDB/ Mongoose
+- Passport
+
 ## Installation
 1. Clone the repository:
     ```bash
@@ -30,11 +36,3 @@ This is an e-commerce application built with Node.js. It allows users to browse 
     npm start
     ```
 2. Open your browser and navigate to `http://localhost:3000`
-
-## Technologies
-- Node.js: JavaScript runtime built on Chrome's V8 JavaScript engine
-- Express: Web framework for Node.js
-- EJS: Embedded JavaScript templating
-- MongoDB: NoSQL database for storing application data
-- Mongoose: ODM (Object Data Modeling) library for MongoDB and Node.js
-- Passport: Authentication middleware for Node.js
