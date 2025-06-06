@@ -11,7 +11,7 @@ This is an e-commerce application built with Node.js. It allows users to browse 
 - Payment processing
 
 ## Tech Stack
-- Node.js/ Express
+- Node.js/ Express.js
 - EJS
 - MongoDB/ Mongoose
 - Passport
